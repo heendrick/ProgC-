@@ -11,6 +11,6 @@ using namespace std;
 // void é o tipo de retorno da função main, que é vazio.
 
 // função principal do programa.
-int main(){ return 0;} 
+int main(){ cout << "Primeira aula de C++\n"; system ("pause"); return 0;} 
 
 
