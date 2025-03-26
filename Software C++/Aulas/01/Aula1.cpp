@@ -13,4 +13,5 @@ using namespace std;
 // função principal do programa.
 int main(){ cout << "Primeira aula de C++\n"; system ("pause"); return 0;} 
 
-
+// \n é um caractere de escape que pula uma linha.
+// system ("pause") é um comando que faz o programa esperar até que o usuário pressione uma tecla.
